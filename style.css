@@ -1,0 +1,16 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    text-align: center;
+    margin: 20px;
+}
+
+input,button,select{
+    padding: 20px;
+    margin:5px;
+}
+#submit{
+      background-color: lightblue;
+      color:blue;
+}
